@@ -4,8 +4,8 @@
 
 | 页面 | URL |
 |------|-----|
-| 首页 | https://lil-bk.github.io/scost-legal/ |
-| 隐私政策 | https://lil-bk.github.io/scost-legal/privacy.html |
-| 用户协议 | https://lil-bk.github.io/scost-legal/terms.html |
+| 首页 | https://hans-sunzihanz.github.io/scost-legal/ |
+| 隐私政策 | https://hans-sunzihanz.github.io/scost-legal/privacy.html |
+| 用户协议 | https://hans-sunzihanz.github.io/scost-legal/terms.html |
 
-主应用源码在独立 private 仓库维护；此处仅同步 `docs/legal/*.html`。
+主应用源码在独立 private 仓库维护；此处仅同步法务静态 HTML。
