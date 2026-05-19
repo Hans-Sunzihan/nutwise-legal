@@ -22,7 +22,7 @@ GitHub Pages 入口与下方「页面导航」一致：
 | Nutwise | 英文品牌名（替代原 sCost 对外英文称呼） |
 | nutwise-legal | 本仓库名（仅表示法务静态资源） |
 
-主工程仓库：[Hans-Sunzihan/sCost](https://github.com/Hans-Sunzihan/sCost)。命名关系见主仓库 README「品牌与命名」一节。
+主工程仓库：[Hans-Sunzihan/Nutwise](https://github.com/Hans-Sunzihan/Nutwise)。命名关系见主仓库 README「品牌与命名」一节。
 
 ## 关于 nutwise.ai
 
@@ -38,12 +38,12 @@ GitHub Pages 入口与下方「页面导航」一致：
 
 ## 更新流程
 
-由主仓库 `sCost` 同步 HTML 后推送：
+由主仓库 `Nutwise` 同步 HTML 后推送：
 
 ```bash
 git clone https://github.com/Hans-Sunzihan/nutwise-legal.git
-/path/to/sCost/scripts/sync-legal-pages.sh ./nutwise-legal
-cp /path/to/sCost/docs/legal/nutwise-legal.README.md ./nutwise-legal/README.md
+/path/to/Nutwise/scripts/sync-legal-pages.sh ./nutwise-legal
+cp /path/to/Nutwise/docs/legal/nutwise-legal.README.md ./nutwise-legal/README.md
 cd nutwise-legal && git add -A && git commit -m "chore: 同步法务页" && git push
 ```
 
